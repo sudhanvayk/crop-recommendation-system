@@ -18,3 +18,9 @@ A machine learning based web application that recommends the most suitable crop 
 4. Open browser:
    http://127.0.0.1:5000
 
+## Authors
+
+- **SUMAN GIRI** – Contributor  
+- **SRINIDHI** – Contributor  
+- **SPANDAN N** – Contributor 
+- **SUDHANVA Y K** – Contributor
